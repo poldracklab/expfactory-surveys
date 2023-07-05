@@ -36,7 +36,7 @@ p {
 
 /* Add gray line for Likert */
 
-form p:before {
+/*form p:before {
   content: '';
   position:relative;
   top:53px;
@@ -45,7 +45,7 @@ form p:before {
   background-color:#efefef;
   height:4px;
   width:555px;
-}
+}*/
 
 .mdl-radio.is-checked .mdl-radio__outer-circle {
   background-color:transparent;
