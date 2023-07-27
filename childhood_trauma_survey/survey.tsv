@@ -1,6 +1,6 @@
 question_type	question_text	required	page_number	option_text	option_values	variables
 instruction	Welcome to this survey. Press <strong>next</strong> to begin.	0	1			
-instruction	When I was growing up:	0	2			
+instruction	When I was growing up . . .	0	2			
 radio	"1. People in my family called me things like stupid, lazy, or ugly."	1	2	"never true, rarely true, sometimes true, often true, very often true"	"1, 2, 3, 4, 5"	ctq_1
 radio	2. I thought that my parents wished I had never been born.	1	2	"never true, rarely true, sometimes true, often true, very often true"	"1, 2, 3, 4, 5"	ctq_2
 radio	3. I felt that someone in my family hated me.	1	2	"never true, rarely true, sometimes true, often true, very often true"	"1, 2, 3, 4, 5"	ctq_3
@@ -21,7 +21,7 @@ radio	17. I felt loved.	1	2	"never true, rarely true, sometimes true, often true
 radio	18. People in my family looked out for each other.	1	2	"never true, rarely true, sometimes true, often true, very often true"	"1, 2, 3, 4, 5"	ctq_18
 radio	19. People in my family felt close to each other.	1	2	"never true, rarely true, sometimes true, often true, very often true"	"1, 2, 3, 4, 5"	ctq_19
 radio	20. My family was a source of strength and support.	1	2	"never true, rarely true, sometimes true, often true, very often true"	"1, 2, 3, 4, 5"	ctq_20
-radio	21. I didn’t have enough to eat.	1	2	"never true, rarely true, sometimes true, often true, very often true"	"1, 2, 3, 4, 5"	ctq_21
+radio	21. I didnt have enough to eat.	1	2	"never true, rarely true, sometimes true, often true, very often true"	"1, 2, 3, 4, 5"	ctq_21
 radio	22. I knew that there was someone to take care of me and protect me.	1	2	"never true, rarely true, sometimes true, often true, very often true"	"1, 2, 3, 4, 5"	ctq_22
 radio	23. My parents were too drunk or high to take care of the family.	1	2	"never true, rarely true, sometimes true, often true, very often true"	"1, 2, 3, 4, 5"	ctq_23
 radio	24. I had to wear dirty clothes.	1	2	"never true, rarely true, sometimes true, often true, very often true"	"1, 2, 3, 4, 5"	ctq_24
