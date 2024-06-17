@@ -1,0 +1,12 @@
+question_type	question_text	required	page_number	option_text	option_values
+instruction	Welcome to this survey. Press <strong>Next</strong> to begin.	0	1		
+instruction	Please answer the following questions about Artificial Intelligence.	0	2		
+instruction	"For the following questions, indicate the extent to which you agree with the following statements."	0	3		
+radio	I trust artificial intelligence.	1	3	"Strongly Disagree, Somewhat Disagree, Equally Disagree/Agree, Somewhat Agree, Strongly Agree"	"1,2, 3, 4, 5"
+radio	AI is making our daily lives easier.	1	3	"Strongly Disagree, Somewhat Disagree, Equally Disagree/Agree, Somewhat Agree, Strongly Agree"	"1,2, 3, 4, 5"
+radio	I trust companies that do not use AI over companies that do.	1	3	"Strongly Disagree, Somewhat Disagree, Equally Disagree/Agree, Somewhat Agree, Strongly Agree"	"1,2, 3, 4, 5"
+radio	I would prefer to drive a self-driving car over a regular car.	1	3	"Strongly Disagree, Somewhat Disagree, Equally Disagree/Agree, Somewhat Agree, Strongly Agree"	"1,2, 3, 4, 5"
+radio	I trust a self driving car to drive safer than I would normally.	1	3	"Strongly Disagree, Somewhat Disagree, Equally Disagree/Agree, Somewhat Agree, Strongly Agree"	"1,2, 3, 4, 5"
+radio	I believe that increased use of artificial intelligence will make the world a safer place.	1	3	"Strongly Disagree, Somewhat Disagree, Equally Disagree/Agree, Somewhat Agree, Strongly Agree"	"1,2, 3, 4, 5"
+radio	"More vehicles, software, and appliances should make use of AI."	1	3	"Strongly Disagree, Somewhat Disagree, Equally Disagree/Agree, Somewhat Agree, Strongly Agree"	"1,2, 3, 4, 5"
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	4		
